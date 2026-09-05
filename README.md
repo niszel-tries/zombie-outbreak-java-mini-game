@@ -2,7 +2,7 @@
 
 Our 2nd group activity in Computer Programming at BPSU CCST Computer Science
 <p>
-  hi guys<br>
+  hi niszel<br>
   hi jeanne<br>
   hi lean<br>
   hi lindsay<br>
